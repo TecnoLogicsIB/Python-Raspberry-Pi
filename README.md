@@ -1,2 +1,2 @@
 # Python-Raspberry-Pi
-HABCAT
+HABCAT. Programes inicials
