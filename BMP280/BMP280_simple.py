@@ -1,6 +1,6 @@
 # importa biblioteques:
 import time
-import libs.BMP280 as bmp280  # arxiu BMP280 que hem creat dins la carpeta lib
+import lib.BMP280 as bmp280  # arxiu BMP280 que hem creat dins la carpeta lib
 
 # configuracio:
 sensor = bmp280.BMP280()  # definicio de l'objecte BMP280 amb el nom sensor
