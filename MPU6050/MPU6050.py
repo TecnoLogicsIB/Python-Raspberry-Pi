@@ -20,7 +20,7 @@ try:
       gyro_data = sensor.get_gyro_data()   
       temp = sensor.get_temp()             
 
-ax = accel_data[‘x’]
+      ax = accel_data[‘x’]
       ay = accel_data[‘y’]
       az = accel_data[‘z’]
       gx = gyro_data[‘x’]
